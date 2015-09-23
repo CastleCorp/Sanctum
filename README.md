@@ -1,4 +1,4 @@
-# *Sanctum*
+# *Sanctum* [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
 
 ### About
 Sanctum is a native client for Mac OSX that provides direct desktop access to SAS faculty web resources, including Socrates and Saintsplex. Sanctum is packaged for Mac OSX and Linux systems (beta) as a stand-alone app. 
@@ -11,7 +11,7 @@ To install Sanctum, please visit the [releases](/releases/) page and download th
 
 Click on Sanctum and it will open, with the application showing on your dock. ***That's it!***
 
-*If you try and install the app and receive a popup telling you that it can't be opened because it is from an unidentified developer, please see [this page](https://support.apple.com/kb/PH18657?locale=en_US) for instructions on fixing it.*
+*If you try and install the app and receive a popup telling you that it can't be opened because it is from an unidentified developer, please see [this page](https://support.apple.com/kb/PH18657?locale=en_US) for instructions on fixing it. The reason for this is that the only certification I have is this: [![forthebadge](http://forthebadge.com/images/badges/certified-snoop-lion.svg)](http://forthebadge.com)*
 
 ### Bugs/Issues:
 There are probably some things I overlooked. If you find any bugs please open a new issue and I will work on fixing it quickly.
@@ -24,3 +24,16 @@ There are probably some things I overlooked. If you find any bugs please open a 
 
 ### Contributing:
 If you would like to contribute, fork the repo, add/change what you would like and submit a pull request for review.
+
+#### YAY BADGES! [![forthebadge](http://forthebadge.com/images/badges/uses-badges.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/uses-css.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/uses-git.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/uses-html.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/uses-js.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/powered-by-watergate.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/gluten-free.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/does-not-contain-treenuts.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/does-not-contain-msg.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/compatibility-betamax.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/as-seen-on-tv.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/compatibility-emacs.svg)](http://forthebadge.com)
