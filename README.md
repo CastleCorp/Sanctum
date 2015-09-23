@@ -25,7 +25,8 @@ There are probably some things I overlooked. If you find any bugs please open a 
 ### Contributing:
 If you would like to contribute, fork the repo, add/change what you would like and submit a pull request for review.
 
-#### YAY BADGES! [![forthebadge](http://forthebadge.com/images/badges/uses-badges.svg)](http://forthebadge.com)
+### Yay Badges! [![forthebadge](http://forthebadge.com/images/badges/uses-badges.svg)](http://forthebadge.com)
+
 [![forthebadge](http://forthebadge.com/images/badges/uses-css.svg)](http://forthebadge.com)
 [![forthebadge](http://forthebadge.com/images/badges/uses-git.svg)](http://forthebadge.com)
 [![forthebadge](http://forthebadge.com/images/badges/uses-html.svg)](http://forthebadge.com)
