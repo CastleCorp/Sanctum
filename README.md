@@ -12,9 +12,9 @@ Click on Sanctum and it will open, with the application showing on your dock. **
 There are probably some things I overlooked. If you find any bugs please open a new issue and I will work on fixing it quickly.
 
 ### Todo:
--[X] Push v1.0.0 release
--[ ] Find Canvas iframe embed block workaround locally
--[ ] New features?
+- [x] Push v1.0.0 release
+- [ ] Find Canvas iframe embed block workaround locally
+- [ ] New features?
 
 ### Contributing:
 If you would like to contribute, fork the repo, add/change what you would like and submit a pull request for review.
