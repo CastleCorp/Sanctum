@@ -11,12 +11,15 @@ To install Sanctum, please visit the [releases](/releases/) page and download th
 
 Click on Sanctum and it will open, with the application showing on your dock. ***That's it!***
 
+*If you try and install the app and receive a popup telling you that it can't be opened because it is from an unidentified developer, please see [this page](https://support.apple.com/kb/PH18657?locale=en_US) for instructions on fixing it.*
+
 ### Bugs/Issues:
 There are probably some things I overlooked. If you find any bugs please open a new issue and I will work on fixing it quickly.
 
 ### Todo:
 - [x] Push v1.0.0 release
 - [ ] Find Canvas iframe embed block workaround locally
+- [ ] Figure out code signing certificate
 - [ ] New features?
 
 ### Contributing:
