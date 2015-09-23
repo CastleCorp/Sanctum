@@ -1,4 +1,4 @@
-# Sanctum
+# *Sanctum*
 
 ### About
 Sanctum is a native client for Mac OSX that provides direct desktop access to SAS faculty web resources, including Socrates and Saintsplex. Sanctum is packaged for Mac OSX and Linux systems (beta) as a stand-alone app. 
