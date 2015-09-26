@@ -1,5 +1,8 @@
 {
-  "name" : "Sanctum",
-  "version" : "2.0.0",
-  "main" : "main.js"
+  "name": "Sanctum",
+  "version": "2.0.0",
+  "main": "main.js",
+  "dependencies": {
+    "electron-gh-releases": "^1.0.1"
+  }
 }
