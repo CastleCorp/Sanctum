@@ -28,7 +28,7 @@ If you would like to contribute, fork the repo, add/change what you would like a
 ### Licensing:
 Please see the license [here](/License.md).
 
-### Yay Badges! [![forthebadge](http://forthebadge.com/images/badges/uses-badges.svg)](http://forthebadge.com)
+### Badges For Categorization! [![forthebadge](http://forthebadge.com/images/badges/uses-badges.svg)](http://forthebadge.com)
 
 [![forthebadge](http://forthebadge.com/images/badges/uses-css.svg)](http://forthebadge.com)
 [![forthebadge](http://forthebadge.com/images/badges/uses-git.svg)](http://forthebadge.com)
